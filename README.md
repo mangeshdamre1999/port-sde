@@ -2,9 +2,9 @@
 ## _Chatting Bot Like Design (Whatsapp like interface)_
 
 
-- [Running Site](https://vinayak-09.github.io/)
+- [Running Site](https://mangesh-8d5e5a.netlify.app/)
 
-[![N|Solid](images/demo.gif)](https://vinayak-09.github.io/)
+[![N|Solid](images/demo.gif)](https://mangesh-8d5e5a.netlify.app/)
 
 ## Technologies Used
 
